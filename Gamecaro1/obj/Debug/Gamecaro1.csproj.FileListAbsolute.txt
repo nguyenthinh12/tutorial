@@ -1,0 +1,11 @@
+D:\baic#\Gamecaro1\Gamecaro1\bin\Debug\Gamecaro1.exe.config
+D:\baic#\Gamecaro1\Gamecaro1\bin\Debug\Gamecaro1.exe
+D:\baic#\Gamecaro1\Gamecaro1\bin\Debug\Gamecaro1.pdb
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.csproj.AssemblyReference.cache
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.Form1.resources
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.Properties.Resources.resources
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.csproj.GenerateResource.cache
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.csproj.CoreCompileInputs.cache
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.exe
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.pdb
+D:\baic#\Gamecaro1\Gamecaro1\obj\Debug\Gamecaro1.csproj.SuggestedBindingRedirects.cache
